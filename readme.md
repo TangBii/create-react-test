@@ -25,5 +25,5 @@ build the project
 create test project for node.js by add `tempalte` parameter
 
 ```shell
-  npx create-react-test my-node-test template node
+  npx create-react-test my-node-test --template node
 ```
